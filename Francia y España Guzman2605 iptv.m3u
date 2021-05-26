@@ -1,0 +1,1505 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",---------- TNT-SAT ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106582.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="|EU| FRANCE ",TF1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106583.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="|EU| FRANCE ",TF1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106584.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="|EU| FRANCE ",TF1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106585.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TF1 FULL HD 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106586.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="|EU| FRANCE ",FRANCE 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106587.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="|EU| FRANCE ",FRANCE 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106588.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="|EU| FRANCE ",FRANCE 2 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106589.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="|EU| FRANCE ",FRANCE 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106590.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="|EU| FRANCE ",FRANCE 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106591.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="|EU| FRANCE ",FRANCE 3 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106592.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="|EU| FRANCE ",FRANCE 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106593.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="|EU| FRANCE ",FRANCE 4 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106594.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="|EU| FRANCE ",FRANCE 4 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106595.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="|EU| FRANCE ",FRANCE 5 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106596.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="|EU| FRANCE ",FRANCE 5 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106597.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="|EU| FRANCE ",FRANCE 5 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106598.ts
+#EXTINF:0 tvg-id="FranceO.fr" group-title="|EU| FRANCE ",FRANCE O SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106599.ts
+#EXTINF:0 tvg-id="FranceO.fr" group-title="|EU| FRANCE ",FRANCE O HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106600.ts
+#EXTINF:0 tvg-id="FranceO.fr" group-title="|EU| FRANCE ",FRANCE O FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106601.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="|EU| FRANCE ",M6 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106602.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="|EU| FRANCE ",M6 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106603.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="|EU| FRANCE ",M6 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106604.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="|EU| FRANCE ",PARIS PREMIERE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106605.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="|EU| FRANCE ",PARIS PREMIERE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106606.ts
+#EXTINF:0 tvg-id="TCM.uk" group-title="|EU| FRANCE ",TMC SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106607.ts
+#EXTINF:0 tvg-id="TMC.fr" group-title="|EU| FRANCE ",TMC HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106608.ts
+#EXTINF:0 tvg-id="TMC.fr" group-title="|EU| FRANCE ",TMC FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106609.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TMC 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106610.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="|EU| FRANCE ",6TER SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106611.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="|EU| FRANCE ",6TER HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106612.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="|EU| FRANCE ",6TER FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106613.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="|EU| FRANCE ",CHERIE 25 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106614.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="|EU| FRANCE ",CHERIE 25
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106615.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="|EU| FRANCE ",CHERIE 25 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106616.ts
+#EXTINF:0 tvg-id="ARTE.de" group-title="|EU| FRANCE ",ARTE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106617.ts
+#EXTINF:0 tvg-id="Arte.fr" group-title="|EU| FRANCE ",ARTE FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106618.ts
+#EXTINF:0 tvg-id="RMCStory.fr" group-title="|EU| FRANCE ",RMC STORY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106619.ts
+#EXTINF:0 tvg-id="RMCStory.fr" group-title="|EU| FRANCE ",RMC STORY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106620.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",---------- Information ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106621.ts
+#EXTINF:0 tvg-id="TV5.fi" group-title="|EU| FRANCE ",TV5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106622.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TV5 MONDE FBS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106623.ts
+#EXTINF:0 tvg-id="CNews.fr" group-title="|EU| FRANCE ",CNEWS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106624.ts
+#EXTINF:0 tvg-id="CNews.fr" group-title="|EU| FRANCE ",CNEWS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106625.ts
+#EXTINF:0 tvg-id="CNews.fr" group-title="|EU| FRANCE ",CNEWS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106626.ts
+#EXTINF:0 tvg-id="FRANCE24.es" group-title="|EU| FRANCE ",France 24
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106627.ts
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="|EU| FRANCE ",FRANCE INFO SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106628.ts
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="|EU| FRANCE ",FRANCE INFO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106629.ts
+#EXTINF:0 tvg-id="LCI.fr" group-title="|EU| FRANCE ",LCI
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106630.ts
+#EXTINF:0 tvg-id="EuronewsFR.nws" group-title="|EU| FRANCE ",EURONEWS FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106631.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",EURONEWS FRANCE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106632.ts
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="|EU| FRANCE ",BFM TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106633.ts
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="|EU| FRANCE ",BFM BUSINESS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106634.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BFM PARIS FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106635.ts
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="|EU| FRANCE ",BFM BUSINESS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106636.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BFM LYON HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106637.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LA CHAINE METEO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106638.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",I24 NEWS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106639.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",WEO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106640.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",GRAND LILLE TV HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106641.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",IDF 1 HD/SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106642.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DEMAIN ! IDF
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106643.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL 31 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106644.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LA CHAINE PARLEMENTAIRE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106645.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TF1 SERIES-FILMS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106646.ts
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="|EU| FRANCE ",TF1 SERIES FILMS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106647.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TF1 SERIES FILMS FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106648.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",---------- Cinema ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106649.ts
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="|EU| FRANCE ",CANAL  SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106650.ts
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="|EU| FRANCE ",CANAL+ HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106651.ts
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="|EU| FRANCE ",CANAL  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106652.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="|EU| FRANCE ",CANAL+ CINEMA HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106653.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="|EU| FRANCE ",CANAL  CINEMA FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106654.ts
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="|EU| FRANCE ",CANAL FAMILY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106655.ts
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="|EU| FRANCE ",CANAL+ FAMILY HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106656.ts
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="|EU| FRANCE ",CANAL  FAMILY FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106657.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|EU| FRANCE ",OCS CHOC SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106658.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|EU| FRANCE ",OCS CHOC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106659.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|EU| FRANCE ",OCS CHOC FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106660.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|EU| FRANCE ",OCS MAX SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106661.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|EU| FRANCE ",OCS MAX HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106662.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|EU| FRANCE ",OCS MAX FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106663.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|EU| FRANCE ",OCS CITY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106664.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|EU| FRANCE ",OCS CITY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106665.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|EU| FRANCE ",OCS CITY FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106666.ts
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|EU| FRANCE ",OCS GEANTS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106667.ts
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|EU| FRANCE ",OCS GEANTS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106668.ts
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|EU| FRANCE ",OCS GEANT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106669.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="|EU| FRANCE ",CINE PREMIER HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106670.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="|EU| FRANCE ",CINE  PREMIER FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106671.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="|EU| FRANCE ",CINE EMOTION HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106672.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="|EU| FRANCE ",CINE EMOTION FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106673.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="|EU| FRANCE ",CINE FRISSON HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106674.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="|EU| FRANCE ",CINE  FRISSON FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106675.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="|EU| FRANCE ",CINE FAMIZ HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106676.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="|EU| FRANCE ",CINE  FAMIZ FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106677.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="|EU| FRANCE ",CINE  CLASSIC HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106678.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="|EU| FRANCE ",CINE CLASSIC FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106679.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",My Comedy
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106680.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="|EU| FRANCE ",Comedy central
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106681.ts
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|EU| FRANCE ",ACTION SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106682.ts
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|EU| FRANCE ",ACTION
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106683.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="|EU| FRANCE ",PARAMOUNT CHANNEL SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106684.ts
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" group-title="|EU| FRANCE ",PARAMOUNT CHANNEL DECALE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106685.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",PARAMOUNT DECALE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106686.ts
+#EXTINF:0 tvg-id="paramount" group-title="|EU| FRANCE ",PARAMOUNT CHANNEL FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106687.ts
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="|EU| FRANCE ",TV BREIZH
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106688.ts
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="|EU| FRANCE ",TV BREIZH FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106689.ts
+#EXTINF:0 tvg-id="Action.ca" group-title="|EU| FRANCE ",ACTION FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106690.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106691.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106692.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106693.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106694.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106695.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106696.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106697.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA CARTE 8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106698.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL PLAY 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106699.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL PLAY 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106700.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL PLAY 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106701.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL PLAY 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106702.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CANAL PLAY 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106703.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106704.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106705.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106706.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106707.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106708.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106709.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106710.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",Orange Cine 8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106711.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",---------- Divertissement ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106712.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="|EU| FRANCE ",CANAL  DECALE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106713.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="|EU| FRANCE ",CANAL+ DECALE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106714.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="|EU| FRANCE ",CANAL  DECALE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106715.ts
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="|EU| FRANCE ",CANAL  SERIES SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106716.ts
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="|EU| FRANCE ",CANAL+ SERIES HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106717.ts
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="|EU| FRANCE ",CANAL  SERIES FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106718.ts
+#EXTINF:0 tvg-id="TFX.fr" group-title="|EU| FRANCE ",TFX SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106719.ts
+#EXTINF:0 tvg-id="TFX.fr" group-title="|EU| FRANCE ",TFX
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106720.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TFX FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106721.ts
+#EXTINF:0 tvg-id="Comedie.fr" group-title="|EU| FRANCE ",COMEDIE  SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106722.ts
+#EXTINF:0 tvg-id="Comedie.fr" group-title="|EU| FRANCE ",COMEDIE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106723.ts
+#EXTINF:0 tvg-id="Comedie.fr" group-title="|EU| FRANCE ",COMEDIE  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106724.ts
+#EXTINF:0 tvg-id="AB1.fr" group-title="|EU| FRANCE ",AB1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106725.ts
+#EXTINF:0 tvg-id="AB1.fr" group-title="|EU| FRANCE ",AB1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106726.ts
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="|EU| FRANCE ",SERIE CLUB
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106727.ts
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="|EU| FRANCE ",SERIE CLUB FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106728.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="|EU| FRANCE ",TEVA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106729.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="|EU| FRANCE ",TEVA FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106730.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="|EU| FRANCE ",W9 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106731.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="|EU| FRANCE ",W9 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106732.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="|EU| FRANCE ",W9 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106733.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="|EU| FRANCE ",C8 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106734.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="|EU| FRANCE ",C8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106735.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="|EU| FRANCE ",C8 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106736.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="|EU| FRANCE ",RTL9 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106737.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="|EU| FRANCE ",RTL 9 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106738.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="|EU| FRANCE ",RTL9 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106739.ts
+#EXTINF:0 tvg-id="13RUE.fr" group-title="|EU| FRANCE ",13EME RUE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106740.ts
+#EXTINF:0 tvg-id="13RUE.fr" group-title="|EU| FRANCE ",13 EME RUE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106741.ts
+#EXTINF:0 tvg-id="13RUE.fr" group-title="|EU| FRANCE ",13 EME RUE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106742.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="|EU| FRANCE ",TCM CINEMA SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106743.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="|EU| FRANCE ",SYFY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106744.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="|EU| FRANCE ",SYFY HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106745.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="|EU| FRANCE ",SYFY FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106746.ts
+#EXTINF:0 tvg-id="CStar.fr" group-title="|EU| FRANCE ",CSTAR SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106747.ts
+#EXTINF:0 tvg-id="CStar.fr" group-title="|EU| FRANCE ",C STAR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106748.ts
+#EXTINF:0 tvg-id="E.uk" group-title="|EU| FRANCE ",E! ENTERTAINMENT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106749.ts
+#EXTINF:0 tvg-id="ETV.gr" group-title="|EU| FRANCE ",E
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106750.ts
+#EXTINF:0 tvg-id="E!.pl" group-title="|EU| FRANCE ",E! ENTERTAINMENT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106751.ts
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="|EU| FRANCE ",WARNER TV SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106752.ts
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="|EU| FRANCE ",WARNER TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106753.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",WARNER TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106754.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="|EU| FRANCE ",SUNDANCE TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106755.ts
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="|EU| FRANCE ",SUNDANCE TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106756.ts
+#EXTINF:0 tvg-id="ELLEGirl.fr" group-title="|EU| FRANCE ",ELLE GIRL SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106757.ts
+#EXTINF:0 tvg-id="ELLEGirl.fr" group-title="|EU| FRANCE ",ELLE GIRL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106758.ts
+#EXTINF:0 tvg-id="BET.uk" group-title="|EU| FRANCE ",BET SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106759.ts
+#EXTINF:0 tvg-id="BET.uk" group-title="|EU| FRANCE ",BET
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106760.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BET TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106761.ts
+#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="|EU| FRANCE ",ALTICE STUDIO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106762.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",ALTICE STUDIO FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106763.ts
+#EXTINF:0 tvg-id="NonStopPeople.es" group-title="|EU| FRANCE ",NON STOP PEOPLE FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106764.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",ALTICE STUDIO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106765.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",AB EXPLORE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106766.ts
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="|EU| FRANCE ",VICELAND FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106767.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="|EU| FRANCE ",TCM CINEMA FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106768.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",ONZEO FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106769.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NOVELAS FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106770.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NOLLYWOOD FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106771.ts
+#EXTINF:0 tvg-id="melody-zen-hd" group-title="|EU| FRANCE ",MY ZEN TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106772.ts
+#EXTINF:0 tvg-id="museum-hd" group-title="|EU| FRANCE ",MUSEUM FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106773.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",ES1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106774.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BE CURIOUS FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106775.ts
+#EXTINF:0 tvg-id="AB3.be" group-title="|EU| FRANCE ",AB3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106776.ts
+#EXTINF:0 tvg-id="AB3.be" group-title="|EU| FRANCE ",AB3 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106777.ts
+#EXTINF:0 tvg-id="CinePolar.fr" group-title="|EU| FRANCE ",CINE POLAR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106778.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",POLAR  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106779.ts
+#EXTINF:0 tvg-id="tv8-lt" group-title="|EU| FRANCE ",TV8 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106780.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|EU| FRANCE ",RMC DECOUVERTE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106781.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|EU| FRANCE ",RMC DECOUVERTE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106782.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="|EU| FRANCE ",NATIONAL GEOGRAPHIC SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106783.ts
+#EXTINF:0 tvg-id="natgeo_hd" group-title="|EU| FRANCE ",NATIONAL GEO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106784.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="|EU| FRANCE ",NATIONAL GEOGRAPHIC FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106785.ts
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="|EU| FRANCE ",NATIONAL GEO WILD SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106786.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NATIONAL GEO WILD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106787.ts
+#EXTINF:0 tvg-id="wild-hd" group-title="|EU| FRANCE ",NATIONAL GEO WILD FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106788.ts
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|EU| FRANCE ",SCIENCE ET VIE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106789.ts
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|EU| FRANCE ",SCIENCE ET VIE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106790.ts
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="|EU| FRANCE ",PLANETE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106791.ts
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="|EU| FRANCE ",PLANETE+
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106792.ts
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="|EU| FRANCE ",PLANETE+ FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106793.ts
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|EU| FRANCE ",PLANETE CI SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106794.ts
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|EU| FRANCE ",PLANETE+ CI
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106795.ts
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|EU| FRANCE ",PLANETE+ CI FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106796.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="|EU| FRANCE ",PLANETE AE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106797.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="|EU| FRANCE ",PLANETE+  A&E
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106798.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="|EU| FRANCE ",PLANETE+ A&E FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106799.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="|EU| FRANCE ",DISCOVERY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106800.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="|EU| FRANCE ",DISCOVERY HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106801.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="|EU| FRANCE ",DISCOVERY FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106802.ts
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="|EU| FRANCE ",DISCOVERY SCIENCE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106803.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|EU| FRANCE ",DISCOVERY SCIENCE FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106804.ts
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="|EU| FRANCE ",DISCOVERY SCIENCE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106805.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DISCOVERY FAMILLY SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106806.ts
+#EXTINF:0 tvg-id="Investigation.uk" group-title="|EU| FRANCE ",DISCOVERY INVESTIGATION SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106807.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DISCOVERY INVESTIGATION FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106808.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|EU| FRANCE ",SEASON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106809.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|EU| FRANCE ",SEASON FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106810.ts
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|EU| FRANCE ",CHASSE & PECHE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106811.ts
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|EU| FRANCE ",CHASSE & PECHE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106812.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|EU| FRANCE ",USHUAIA HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106813.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|EU| FRANCE ",USHUAIA TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106814.ts
+#EXTINF:0 tvg-id="Voyage.fr" group-title="|EU| FRANCE ",VOYAGE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106815.ts
+#EXTINF:0 tvg-id="Voyage.fr" group-title="|EU| FRANCE ",VOYAGE FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106816.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|EU| FRANCE ",ANIMAUX HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106817.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|EU| FRANCE ",ANIMAUX FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106818.ts
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="|EU| FRANCE ",TOUTE L HISTOIRE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106819.ts
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="|EU| FRANCE ",TOUTE L HISTOIRE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106820.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|EU| FRANCE ",HISTOIRE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106821.ts
+#EXTINF:0 tvg-id="DiscoveryFamilyChannel.us" group-title="|EU| FRANCE ",DISCOVERY FAMILY FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106822.ts
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|EU| FRANCE ",CRIME DISTRICT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106823.ts
+#EXTINF:0 tvg-id="Nautical.gr" group-title="|EU| FRANCE ",NAUTICAL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106824.ts
+#EXTINF:0 tvg-id="Trek.fr" group-title="|EU| FRANCE ",TREK
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106825.ts
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|EU| FRANCE ",CRIME DISTRICT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106826.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MY CUISINE TV SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106827.ts
+#EXTINF:0 tvg-id="Voyage.fr" group-title="|EU| FRANCE ",VOYAGE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106828.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|EU| FRANCE ",USHUAIA TV SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106829.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|EU| FRANCE ",HISTOIRE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106830.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",SCIENCES ET VIE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106831.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|EU| FRANCE ",ANIMAUX SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106832.ts
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|EU| FRANCE ",CHASSE ET PECHE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106833.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|EU| FRANCE ",RMC DECOUVERTE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106834.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MY CUISINE TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106835.ts
+#EXTINF:0 tvg-id="Trek.fr" group-title="|EU| FRANCE ",TREK SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106836.ts
+#EXTINF:0 tvg-id="Nautical.gr" group-title="|EU| FRANCE ",NAUTICAL SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106837.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE ",EQUIDIA LIVE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106838.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE ",EQUIDIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106839.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE ",EQUIDIA LIVE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106840.ts
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="|EU| FRANCE ",NRJ TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106841.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|EU| FRANCE ",NRJ 12
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106842.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|EU| FRANCE ",NRJ 12 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106843.ts
+#EXTINF:0 tvg-id="TraceTropical.fr" group-title="|EU| FRANCE ",TRACE TROPICAL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106844.ts
+#EXTINF:0 tvg-id="TraceUrban.uk" group-title="|EU| FRANCE ",TRACE URBAN
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106845.ts
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="|EU| FRANCE ",M6 MUSIC HITS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106846.ts
+#EXTINF:0 tvg-id="MTV.fr" group-title="|EU| FRANCE ",MTV FRANCE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106847.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",STINGRAY HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106848.ts
+#EXTINF:0 tvg-id="Mezzo.fr" group-title="|EU| FRANCE ",MEZZO FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106849.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="|EU| FRANCE ",MEZZO LIVE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106850.ts
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="|EU| FRANCE ",VH1 CLASSIC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106851.ts
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="|EU| FRANCE ",MTV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106852.ts
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="|EU| FRANCE ",MTV HITS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106853.ts
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="|EU| FRANCE ",RFM TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106854.ts
+#EXTINF:0 tvg-id="mcm-top" group-title="|EU| FRANCE ",MCM TOP
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106855.ts
+#EXTINF:0 tvg-id="mcm-top" group-title="|EU| FRANCE ",MCM
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106856.ts
+#EXTINF:0 tvg-id="MTV.fr" group-title="|EU| FRANCE ",MTV FRANCE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106857.ts
+#EXTINF:0 tvg-id="mcm-top" group-title="|EU| FRANCE ",MCM SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106858.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|EU| FRANCE ",NRJ12 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106859.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="|EU| FRANCE ",MEZZO LIVE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106860.ts
+#EXTINF:0 tvg-id="Mezzo.es" group-title="|EU| FRANCE ",MEZZO SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106861.ts
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="|EU| FRANCE ",NRJ TV SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106862.ts
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="|EU| FRANCE ",VH1 CLASSIC SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106863.ts
+#EXTINF:0 tvg-id="tv8-lt" group-title="|EU| FRANCE ",TV8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106864.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MELODY TV FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106866.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",CINE CLUB FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106867.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="|EU| FRANCE ",DISNEY CHANNEL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106868.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="|EU| FRANCE ",DISNEY CHANNEL FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106869.ts
+#EXTINF:0 tvg-id="DisneyChannelPlus1.fr" group-title="|EU| FRANCE ",DISNEY CHANNEL 1 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106870.ts
+#EXTINF:0 tvg-id="DisneyXD.es" group-title="|EU| FRANCE ",DISNEY XD SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106871.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DISNEY XD fr
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106872.ts
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="|EU| FRANCE ",DISNEY XD FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106873.ts
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="|EU| FRANCE ",DISNEY CINEMA FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106874.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="|EU| FRANCE ",DISNEY JUNIOR SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106875.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="|EU| FRANCE ",DISNEY JUNIOR HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106876.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="|EU| FRANCE ",DISNEY JUNIOR FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106877.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| FRANCE ",NICKELODEON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106878.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NICKELODEON 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106879.ts
+#EXTINF:0 tvg-id="nick-jr" group-title="|EU| FRANCE ",NICKELODEON JUNIOR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106880.ts
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="|EU| FRANCE ",TELETOON  HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106881.ts
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="|EU| FRANCE ",TELETOON FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106882.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELETOON 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106883.ts
+#EXTINF:0 tvg-id="ManGa.it" group-title="|EU| FRANCE ",MANGA SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106884.ts
+#EXTINF:0 tvg-id="Mangas.fr" group-title="|EU| FRANCE ",MANGAS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106885.ts
+#EXTINF:0 tvg-id="Mangas.fr" group-title="|EU| FRANCE ",MANGAS FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106886.ts
+#EXTINF:0 tvg-id="Toonami.fr" group-title="|EU| FRANCE ",TOONAMI
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106887.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TOONAMI FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106888.ts
+#EXTINF:0 tvg-id="Boing.fr" group-title="|EU| FRANCE ",BOING FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106889.ts
+#EXTINF:0 tvg-id="GameOne.fr" group-title="|EU| FRANCE ",GAME ONE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106890.ts
+#EXTINF:0 tvg-id="GameOne.fr" group-title="|EU| FRANCE ",GAME ONE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106891.ts
+#EXTINF:0 tvg-id="GameOne.fr" group-title="|EU| FRANCE ",GAME ONE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106892.ts
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="|EU| FRANCE ",BOOMERANG SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106893.ts
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="|EU| FRANCE ",BOOMERANG
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106894.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="|EU| FRANCE ",BABY TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106895.ts
+#EXTINF:0 tvg-id="PIWI.fr" group-title="|EU| FRANCE ",PIWI
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106896.ts
+#EXTINF:0 tvg-id="PIWI.fr" group-title="|EU| FRANCE ",PIWI FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106897.ts
+#EXTINF:0 tvg-id="tiji" group-title="|EU| FRANCE ",TIJI SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106898.ts
+#EXTINF:0 tvg-id="Tiji.fr" group-title="|EU| FRANCE ",TIJI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106899.ts
+#EXTINF:0 tvg-id="Tiji.fr" group-title="|EU| FRANCE ",TIJI FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106900.ts
+#EXTINF:0 tvg-id="gulli" group-title="|EU| FRANCE ",GULLI SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106901.ts
+#EXTINF:0 tvg-id="Gulli.fr" group-title="|EU| FRANCE ",GULLI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106902.ts
+#EXTINF:0 tvg-id="Gulli.fr" group-title="|EU| FRANCE ",GULLI FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106903.ts
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="|EU| FRANCE ",CANAL J SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106904.ts
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="|EU| FRANCE ",CANAL J
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106905.ts
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="|EU| FRANCE ",CANAL J FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106906.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="|EU| FRANCE ",CARTOON NETWORK SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106907.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="|EU| FRANCE ",Cartoon Network
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106908.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="|EU| FRANCE ",CARTOON NETWORK FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106909.ts
+#EXTINF:0 tvg-id="JOne.fr" group-title="|EU| FRANCE ",J ONE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106910.ts
+#EXTINF:0 tvg-id="JOne.fr" group-title="|EU| FRANCE ",J-ONE FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106911.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| FRANCE ",NICKELODEON SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106912.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NICKELODEON4-TEEN FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106913.ts
+#EXTINF:0 tvg-id="NickJr.fr" group-title="|EU| FRANCE ",NICKELODEON JUNIOR FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106914.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="|EU| FRANCE ",BOING SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106915.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| FRANCE ",NICKELODEON FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106916.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",GAME ONE 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106917.ts
+#EXTINF:0 tvg-id="ManGa.it" group-title="|EU| FRANCE ",MANGA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106918.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DRAGON BALL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106919.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DRAGON BALL KAI (SAGA BOUBOU)
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106920.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DRAGON BALL KAI (SAGA FREEZER - CELL)
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106921.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DRAGON BALL GT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106922.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES CHEVALIERS DU ZODIAQUE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106923.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",KEN LE SURVIVANT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106924.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",INSPECTEUR GADGET
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106925.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES MYSTÉRIEUSES CITES D'OR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106926.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NICKY LARSON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106927.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",OLIVE ET TOM
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106928.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TOMSAWYER
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106929.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TOM ET JERRY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106930.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DENVER LE DERNIER DINOSAURE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106931.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LARVA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106932.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES LAPINS CRÉTINS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106933.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BARBAPAPA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106934.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LA MAISON DE MICKEY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106935.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DONALD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106936.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",PLUTO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106937.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LOONEY TUNES
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106938.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MASHA ET MICHKA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106939.ts
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="|EU| FRANCE ",PEPPA PIG
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106940.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",PETIT OURS BRUN
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106941.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TCHOUPI
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106942.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TROTRO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106943.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MINUSCULE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106944.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MINUS ET CORTEX
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106945.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LA GARDE DU ROI LION
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106946.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",SCOOBY-DOO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106947.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",PAT' PATROUILLE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106948.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",SUPER WINGS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106949.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MIRACULOUS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106950.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",SPIRIT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106951.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES PYJAMASQUES
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106952.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TALIA - AMIS MAGIQUE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106953.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TROLLS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106954.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",IL ÉTAIT UNE FOIS LA VIE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106955.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",INAZUMA ELEVEN 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106956.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",GO DIEGO !
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106957.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",ZIG ET SHARKO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106958.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",NARUTO SHIPPUDEN
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106959.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DRAGON BALL SUPER
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106960.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",POKEMON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106961.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",OGGY ET LES CAFARDS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106962.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",HUNTER X HUNTER
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106963.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BOB L’ÉPONGE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106964.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES SCHTROUMPFS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106965.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",LES SIMPSON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106966.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",---------- Sport ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106967.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106968.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106969.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106970.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADiUM 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106971.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106972.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 5 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106973.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 6 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106974.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 7 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106975.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 8 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106976.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106977.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106978.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106979.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADiUM 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106980.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 4 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106981.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 5 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106982.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 6 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106983.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 7 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106984.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 8 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106985.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106986.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106987.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 2 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106988.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 3 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106989.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 4 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106990.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 5 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106991.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 6 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106992.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 7 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106993.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 8 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106994.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106995.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 1 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106996.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 2 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106997.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADiUM 3 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106998.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 4 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/106999.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 5 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107000.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 6 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107001.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 7 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107002.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TELEFOOT STADIUM 8 HEVC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107003.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",TeleFoot 4k
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107004.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC SPORT NEWS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107005.ts
+#EXTINF:0 tvg-id="RMCSportNews.fr" group-title="|EU| FRANCE ",RMC SPORT NEWS  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107006.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE ",RMC SPORT 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107007.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE ",RMC SPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107008.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE ",RMC SPORT 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107009.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE ",RMC SPORT 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107010.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE ",RMC SPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107011.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE ",RMC SPORT 2 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107012.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="|EU| FRANCE ",RMC SPORT 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107013.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="|EU| FRANCE ",RMC SPORT 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107014.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="|EU| FRANCE ",RMC SPORT 3 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107015.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="|EU| FRANCE ",RMC SPORT 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107016.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="|EU| FRANCE ",RMC SPORT 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107017.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="|EU| FRANCE ",RMC SPORT 4 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107018.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC SPORT 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107019.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC SPORT 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107020.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC SPORT 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107021.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 8 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107022.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 9 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107023.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 10 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107024.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 11 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107025.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 12 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107026.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 14 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107027.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 13 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107028.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 15 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107029.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",RMC Sport Live 16 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107030.ts
+#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107031.ts
+#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107032.ts
+#EXTINF:0 tvg-id="RMCSportAccess2.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107033.ts
+#EXTINF:0 tvg-id="RMCSportAccess2.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107034.ts
+#EXTINF:0 tvg-id="RMCSportAccess3.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 3 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107035.ts
+#EXTINF:0 tvg-id="RMCSportAccess3.fr" group-title="|EU| FRANCE ",RMC SPORT ACCESS 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107036.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|EU| FRANCE ",BEIN SPORTS 1 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107037.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|EU| FRANCE ",BEIN SPORTS 1 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107038.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|EU| FRANCE ",BEIN SPORTS 2 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107039.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|EU| FRANCE ",BEIN SPORTS 2 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107040.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|EU| FRANCE ",BEIN SPORTS 3 HD FR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107041.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|EU| FRANCE ",BEIN SPORTS 3 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107042.ts
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="|EU| FRANCE ",BEIN SPORT MAX 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107043.ts
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="|EU| FRANCE ",BEIN SPORT MAX 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107044.ts
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="|EU| FRANCE ",BEIN SPORT MAX 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107045.ts
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="|EU| FRANCE ",BEIN SPORT MAX 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107046.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BEIN SPORT MAX 8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107047.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BEIN SPORT MAX 9
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107048.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",BEIN SPORT MAX 10
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107049.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE ",SFR SPORT 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107050.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE ",SFR SPORT 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107051.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="|EU| FRANCE ",SFR SPORT 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107052.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="|EU| FRANCE ",SFR SPORT 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107053.ts
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="|EU| FRANCE ",CANAL SPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107054.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE ",CANAL+ SPORT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107055.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE ",CANAL  SPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107056.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE ",INFOSPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107057.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",VOO SPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107058.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",VOO SPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107059.ts
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="|EU| FRANCE ",GOLF +
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107060.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="|EU| FRANCE ",GOLF + FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107061.ts
+#EXTINF:0 tvg-id="Golf.fr" group-title="|EU| FRANCE ",GOLF CHANNEL SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107062.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="|EU| FRANCE ",Golf Channel HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107063.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="|EU| FRANCE ",GOLF CHANNEL FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107064.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="|EU| FRANCE ",EUROSPORT 1 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107065.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="|EU| FRANCE ",EUROSPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107066.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="|EU| FRANCE ",EUROSPORT 1 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107067.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="|EU| FRANCE ",EUROSPORT 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107068.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="|EU| FRANCE ",EUROSPORT 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107069.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="|EU| FRANCE ",EUROSPORT 2 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107070.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE ",INFOSPORT+
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107071.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE ",INFOSPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107072.ts
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="|EU| FRANCE ",L'EQUIPE 21 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107073.ts
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="|EU| FRANCE ",L EQUIPE 21
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107074.ts
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="|EU| FRANCE ",L EQUIPE 21 FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107075.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MOTORSPORT FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107076.ts
+#EXTINF:0 tvg-id="ExtremeSports.uk" group-title="|EU| FRANCE ",EXTREME SPORTS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107077.ts
+#EXTINF:0 tvg-id="extreme-sports" group-title="|EU| FRANCE ",EXTREME SPORTS FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107078.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",FOOT  FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107079.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE ",EQUIDIA LIVE SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107080.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",AUTOMOTO FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107081.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MOTOR SPORT SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107082.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",AUTOMOTO LA CHAINE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107083.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107084.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107085.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107086.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107087.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107088.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",MULTISPORTS 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107089.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",A LA MAISON FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107090.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ",DISNEY+ FULL HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107091.ts
+
+#EXTINF:0 tvg-id="24Horas.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: 24 HORAS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107466.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: LA 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107467.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: LA 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107468.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="|EU| ESPANA SD/HD/FHD",ES: LA 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107469.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="|EU| ESPANA SD/HD/FHD",ES: ANTENA 3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107470.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="|EU| ESPANA SD/HD/FHD",ES: ANTENA 3 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107471.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="|EU| ESPANA SD/HD/FHD",ES: LA CUATRO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107472.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LA CUATRO FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107473.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="|EU| ESPANA SD/HD/FHD",ES: TELECINCO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107474.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="|EU| ESPANA SD/HD/FHD",ES: TELECINCO FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107475.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: LA SEXTA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107476.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: LA SEXTA FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107477.ts
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: ARAGON TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107478.ts
+#EXTINF:0 tvg-id="CanalSur.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CANAL SUR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107479.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: CANAL SUR FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107480.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NOVA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107481.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: TV 13
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107482.ts
+#EXTINF:0 tvg-id="AndaluciaTVsat.es" group-title="|EU| ESPANA SD/HD/FHD",ES: ANDALUCIA TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107483.ts
+#EXTINF:0 tvg-id="13tv.es" group-title="|EU| ESPANA SD/HD/FHD",ES: 13 TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107484.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="|EU| ESPANA SD/HD/FHD",ES: ODISEA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107485.ts
+#EXTINF:0 tvg-id="Intereconomia.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: INTERECONOMIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107486.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: 7RM FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107487.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- Movistar Cine ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107488.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR 0#
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107489.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR 0# FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107490.ts
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ACCION
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107491.ts
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ACCION HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107492.ts
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ACCION FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107493.ts
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ESTRENOS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107494.ts
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ESTRENOS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107495.ts
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR ESTRENOS FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107496.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DRAMA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107497.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DRAMA FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107498.ts
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR SERIES
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107499.ts
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR SERIES FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107500.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR SERIESMANIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107501.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR CINE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107502.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR CINE Ñ
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107503.ts
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR COMEDIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107504.ts
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR COMEDIA FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107505.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR CineDoc&Roll
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107506.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: A3 SERIE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107507.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- ENTRETENIMIENTO ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107508.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="|EU| ESPANA SD/HD/FHD",ES: TNT
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107509.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="|EU| ESPANA SD/HD/FHD",ES: TNT FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107510.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AXN HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107511.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AXN FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107512.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AXN WHITE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107513.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AXN WHITE FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107514.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="|EU| ESPANA SD/HD/FHD",ES: FOX
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107515.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="|EU| ESPANA SD/HD/FHD",ES: FOX FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107516.ts
+#EXTINF:0 tvg-id="FoxLife.es" group-title="|EU| ESPANA SD/HD/FHD",ES: FOX LIFE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107517.ts
+#EXTINF:0 tvg-id="FoxLife.es" group-title="|EU| ESPANA SD/HD/FHD",ES: FOX LIFE FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107518.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="|EU| ESPANA SD/HD/FHD",ES: SYFY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107519.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="|EU| ESPANA SD/HD/FHD",ES: SYFY FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107520.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CALLE 13
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107521.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CALLE 13 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107522.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: COSMO HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107523.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: COSMO FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107524.ts
+#EXTINF:0 tvg-id="TCM.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: TCM
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107525.ts
+#EXTINF:0 tvg-id="TCM.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: TCM FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107526.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="|EU| ESPANA SD/HD/FHD",ES: PARAMOUNT CHANNEL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107527.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="|EU| ESPANA SD/HD/FHD",ES: SUNDANCE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107528.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="|EU| ESPANA SD/HD/FHD",ES: HOLLYWOOD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107529.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="|EU| ESPANA SD/HD/FHD",ES: HOLLYWOOD FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107530.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="|EU| ESPANA SD/HD/FHD",ES: COMEDY CENTRAL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107531.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CLAN
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107532.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: CLAN TVE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107533.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AMC
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107534.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="|EU| ESPANA SD/HD/FHD",ES: AMC FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107535.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: RITMOSON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107536.ts
+#EXTINF:0 tvg-id="TVGalicia.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: TV GALICIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107537.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: TYC SPORTS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107538.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: ETC TV ECUADOR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107539.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: CASTILLA LA MANCHA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107540.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: TDP
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107541.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: TELENOVELAS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107542.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: RCN
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107543.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: CRIMEN+ INVESTIGACION
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107544.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- CULTURA ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107545.ts
+#EXTINF:0 tvg-id="Viajar.es" group-title="|EU| ESPANA SD/HD/FHD",ES: Viajar
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107546.ts
+#EXTINF:0 tvg-id="Viajar.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: VIAJAR FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107547.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NAT GEO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107548.ts
+#EXTINF:0 tvg-id="NatGeoHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NAT GEO FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107549.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NAT GEO WILD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107550.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NAT GEO WILD FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107551.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CAZA Y PESCA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107552.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CAZA Y PESCA FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107553.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="|EU| ESPANA SD/HD/FHD",ES: Iberalia
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107554.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="|EU| ESPANA SD/HD/FHD",ES: HISTORIA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107555.ts
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="|EU| ESPANA SD/HD/FHD",ES: EXTREMADURA TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107556.ts
+#EXTINF:0 tvg-id="DKISS.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DKISS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107557.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DMAX
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107558.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: CANAL DECASA HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107559.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: DISCOVERY CHANNEL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107560.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NEOX
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107561.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="|EU| ESPANA SD/HD/FHD",ES: FDF
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107562.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DIVINITY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107563.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="|EU| ESPANA SD/HD/FHD",ES: ENERGY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107564.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="|EU| ESPANA SD/HD/FHD",ES: CANAL COCINA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107565.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: BLAZE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107566.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: BE MAD FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107567.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MEGA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107568.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: COSMO
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107569.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- NINOS ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107570.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="|EU| ESPANA SD/HD/FHD",ES: BABY TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107571.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="|EU| ESPANA SD/HD/FHD",ES: BOING
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107572.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NICKELODEON HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107573.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="|EU| ESPANA SD/HD/FHD",ES: PANDA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107574.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NICK JR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107575.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NICKELODEON
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107576.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DISNEY+
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107577.ts
+#EXTINF:0 tvg-id="MovistarDisney.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DISNEY
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107578.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DISNEY JUNIOR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107579.ts
+#EXTINF:0 tvg-id="DisneyXD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DISNEY XD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107580.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DISNEY CHANNEL
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107581.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="|EU| ESPANA SD/HD/FHD",ES: DISNEY CHANNEL FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107582.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="|EU| ESPANA SD/HD/FHD",ES: NICKELODEON FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107583.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- MUSICA ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107584.ts
+#EXTINF:0 tvg-id="Classica.es" group-title="|EU| ESPANA SD/HD/FHD",ES: classica
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107585.ts
+#EXTINF:0 tvg-id="MTV2.sp" group-title="|EU| ESPANA SD/HD/FHD",ES: MTV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107586.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MEZZO LIVE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107587.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: HIT TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107588.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MEZZO LIVE FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107589.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- DEPORTES ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107590.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="|EU| ESPANA SD/HD/FHD",ES: TELEDEPORTE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107591.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="|EU| ESPANA SD/HD/FHD",ES: R. MADRID TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107592.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="|EU| ESPANA SD/HD/FHD",ES: BARCA TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107593.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="|EU| ESPANA SD/HD/FHD",ES: REAL MADRID TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107594.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR VAMOS
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107595.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR VAMOS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107596.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR TOROS TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107597.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR TOROS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107598.ts
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR F1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107599.ts
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR F1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107600.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DEPORTE HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107601.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DEPORTE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107602.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR GOLF
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107603.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="|EU| ESPANA SD/HD/FHD",ES: GOL TV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107604.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: EUROSPORT 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107605.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: EUROSPORT 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107606.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="|EU| ESPANA SD/HD/FHD",ES: Eurosport 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107607.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M.LALIGA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107608.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA [SAT]
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107609.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA TV BAR HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107610.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107611.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGAHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107612.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107613.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 1 HD/ EUROSPORT HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107614.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 2 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107615.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107616.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 4 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107617.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 8 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107618.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 5 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107619.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 6 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107620.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LALIGA 7 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107621.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107622.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107623.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107624.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107625.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107626.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107627.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107628.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107629.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.LIGA DE CAMPEONES 8
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107630.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR LALIGA HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107631.ts
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MULTIDEPORTE
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107632.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107633.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107634.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES3
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107635.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107636.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES5
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107637.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES6
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107638.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTES7
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107639.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M. DEPORTESHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107640.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LALIGATV BAR 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107641.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 4  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107642.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LaLiga BAR FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107643.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA CAMPEONES 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107644.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA CAMPEONES HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107645.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 1 Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107646.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107647.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 2  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107648.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 3  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107649.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 5  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107650.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 6  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107651.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 7  Espa
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107652.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES 8 ESPA
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107653.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA CAMPEONES
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107654.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LA LIGATV BAR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107655.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: M.LALIGA FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107656.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA CAMPEONES 2 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107657.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGA DE CAMPEONES FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107658.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: LIGATV FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107659.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR DEPORTE 1 FULLHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107660.ts
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR F1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107661.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR GOLF FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107662.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: MOVISTAR VAMOS FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107663.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- DAZN ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107664.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107665.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107666.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN MOTO GP FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107667.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN MOTO GP HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107668.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 1 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107669.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 2 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107670.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 3 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107671.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 4 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107672.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 5 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107673.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 5 HD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107674.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 6 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107675.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",ES: DAZN 7 FHD PPV
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107676.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",---------- ALQUILER ESPANA ----------
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107677.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107678.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 2 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107679.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 3 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107680.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 4 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107681.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 5 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107682.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 6 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107683.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 7 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107684.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 8 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107685.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 9 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107686.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 10 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107687.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 11 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107688.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 12 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107689.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 13 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107690.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 14 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107691.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 15 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107692.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 16 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107693.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 17 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107694.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 18 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107695.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 19 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107696.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 20 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107697.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 21 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107698.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 22 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107699.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 23 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107700.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 24 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107701.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 25 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107702.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 26 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107703.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 29 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107704.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 27 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107705.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 28 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107706.ts
+#EXTINF:0 tvg-id="ext" group-title="|EU| ESPANA SD/HD/FHD",M.ALQUILER 30 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/107707.ts
